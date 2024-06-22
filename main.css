@@ -1,0 +1,319 @@
+#old{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(140,140,245,1) 35%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Waiting Summer', sans-serif;
+    width: 100%;
+    color: #f2f5fa;
+    text-shadow: grey -4px 4px 5px;
+    border-radius: 10px;
+    margin: 20px;
+    border:solid 2px blue;
+}
+#s_one {
+   background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("sl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 40%;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid darkblue;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+}
+header li{
+    font-size: 20px;
+    margin: 20px;
+}
+header h3{
+    font-size: 25px;
+    margin:20px;
+}
+#d_one{
+    display: flex;
+    justify-content: space-around;
+
+}
+#s_two{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    margin:10px;
+    background-color: #F8F6F0;
+    border: 2px solid darkslateblue;
+    padding: 30px;
+    font-family: 'Meldina', sans-serif;;
+
+}
+#s_two p{
+    margin-top: 30px;
+}
+#b_one{
+    background-color: #ebf2f2;
+}
+#d_two{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 100px;
+}
+#f_one{
+    background-color: #F8F6F0;
+    border: 2px solid mediumslateblue;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top:30px;
+}
+#f_one h3{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-family: 'Bluesky', sans-serif;
+}
+#new{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Waiting Summer', sans-serif;
+    width: 100%;
+    color: #f2f5fa;
+    text-shadow: grey -4px 4px 5px;
+    border-radius: 10px;
+    margin: 20px;
+    background: rgb(206,238,174);
+    background: radial-gradient(circle, rgba(206,238,174,1) 0%, rgba(246,195,228,1) 100%);
+    border: solid lightpink 2px;
+}
+#b_two{
+    background-color: #fdf2ff;
+}
+#page2{
+    display: flex;
+    justify-content: space-between;
+}
+#page2 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   border-radius: 10px;
+    font-family: 'Minimalist Farmhouse', sans-serif;
+    color: #F8F6F0;
+    font-size: 30px;
+    letter-spacing: 2px;
+    box-shadow: -4px 5px 5px lightpink;
+    text-shadow: grey -4px 4px 5px;
+}
+#nula{
+    width: 33%;
+    background-color: #a5f2b3;
+    padding: 20px;
+    margin-left: 20px;
+}
+#eden{
+    background-color: #87e699;
+    padding: 20px;
+}
+#dva{
+    background-color: #76de89;
+    padding: 20px;
+}
+#tri{
+    background-color: #61c774;
+    padding: 20px;
+}
+#cetiri{
+    background-color: #55c269;
+    padding: 20px;
+}
+#page2 img{
+    border-radius: 10px;
+    border: hotpink solid 2px;
+}
+#f_two{
+    background: rgb(251,199,255);
+    background: linear-gradient(90deg, rgba(251,199,255,1) 0%, rgba(237,67,217,1) 35%, rgba(255,64,167,1) 100%);
+    font-size: 20px;
+    font-family: "Droid Serif";
+    border-radius: 10px;
+    color: #F8F6F0;
+    padding: 10px;
+    margin: 20px 10px 10px 10px;
+    text-align: center;
+}
+header a{
+    color: #f2f5fa;
+    text-shadow: grey -4px 4px 5px;
+    text-decoration: none;
+    font-family: 'Waiting Summer', sans-serif;
+}
+a:hover{
+    color: silver;
+}
+#edu{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Waiting Summer', sans-serif;
+    width: 100%;
+    color: #f2f5fa;
+    text-shadow: grey -4px 4px 5px;
+    border-radius: 10px;
+    margin: 20px;
+    background: rgb(180,58,79);
+    background: linear-gradient(90deg, rgba(180,58,79,1) 0%, rgba(244,253,29,1) 50%, rgba(252,176,69,1) 100%);
+    border: solid indianred 2px;
+}
+#s_three{
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    padding: 10px;
+}
+#one{
+    background-image: url("osnovno.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    box-shadow: darkred 4px 3px 5px;
+}
+#three{
+    background-image: url("gimnazija.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    box-shadow: coral 4px 3px 5px;
+}
+#two li{
+    list-style: none;
+    display: inline-block;
+}
+#sub_two li{
+    list-style: none;
+    display: block;
+    margin:5px;
+}
+#two{
+    text-align: center;
+    background-image: url("wallpaper.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    box-shadow: goldenrod 4px 3px 5px;
+}
+#b_three{
+    background-color: #fcfab8;
+}
+#sub_two{
+    margin-top:30px;
+}
+#sub_one li{
+    margin:5px;
+}
+#s_three div{
+    margin: 10px;
+}
+#s_three h2{
+    font-family: 'Stick No Bills', sans-serif;
+}
+#two ul li{
+    font-family: serif;
+}
+#f_three{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("backround.jpg");
+    background-repeat: repeat-x;
+    border-radius: 10px;
+    box-shadow: lightpink 4px -3px 4px;
+    margin-bottom: 40px;
+    width: 100%;
+}
+#f_three h2{
+    margin: 30px 10px 10px 30px;
+    width: 100%;
+    text-shadow: deeppink -5px 2px 3px;
+    font-weight: bold;
+    font-family: 'Waiting Summer', sans-serif;
+    color: white;
+}
+#final{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Waiting Summer', sans-serif;
+    width: 100%;
+    color: #f2f5fa;
+    text-shadow: grey -4px 4px 5px;
+    border-radius: 10px;
+    margin: 20px;
+    background: rgb(164,76,222);
+    background: radial-gradient(circle, rgba(164,76,222,1) 0%, rgba(95,240,238,1) 100%);
+    border: solid 2px rebeccapurple;
+}
+#s_four{
+    display: flex;
+    justify-content: space-between;
+    margin-top:50px;
+}
+#s_four #fin_two img{
+    position: absolute;
+}
+#fin_two #i1{
+    left:600px;
+    box-shadow: rebeccapurple -5px 3px 4px;
+}
+#fin_two #i2{
+    left: 800px;
+    top:250px;
+}
+#fin_two #i3{
+    left:1000px;
+    top:150px;
+}
+#fin_two #i4{
+    left: 1200px;
+    top:250px;
+    box-shadow: coral 5px 3px 4px;
+}
+#b_four{
+   background-color: #daeded;
+}
+#fin_one{
+    text-align: center;
+    margin-left: 100px;
+    border: dotted 2px #c45ef7;
+    padding: 0 90px 0 90px;
+    box-shadow: mediumpurple 5px 4px 3px;
+}
+#fin_one h3 {
+   font-size: 25px;
+    font-family: 'Agbalumo', sans-serif;
+}
+#fin_one p{
+    font-family: 'Afacad', sans-serif;
+}
+#f_four{
+    background: rgb(241,208,16);
+    background: linear-gradient(90deg, rgba(241,208,16,1) 0%, rgba(166,67,237,1) 35%, rgba(92,7,161,1) 100%);
+    font-size: 20px;
+    font-family: 'Afacad', sans-serif;
+    color: black;
+    border-radius: 10px;
+    width:100%;
+    margin-top:100px;
+    padding:10px 0 10px 0;
+    text-shadow: silver -4px 4px 5px;
+}
